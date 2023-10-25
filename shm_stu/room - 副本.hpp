@@ -10,11 +10,6 @@ class room
         int number;
          
     public:
-        room(int _id=0,int _number=0)
-            :id(_id),number(_number)
-            {
-               
-               
-            }
+        
 };
 
